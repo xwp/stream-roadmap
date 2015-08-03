@@ -6,7 +6,7 @@ The purpose of the roadmap is to present a vision for Stream. As a community of 
 
 ## How can I see the roadmap?
 
-Go to [http://wp-stream.github.io/roadmap/][2].
+Go to [https://github.com/wp-stream/roadmap/blob/master/roadmap.md][2], or click the roadmap.md file listed above.
 
 ## How do I contribute?
 
@@ -23,7 +23,7 @@ All changes will be held for a period of 30 days with the tag "feedback-required
 Yes! Email [support@wp-stream.com][5].
 
 [1]:	http://wp-steam.com
-[2]:	http://wp-stream.github.io/roadmap/
+[2]:	https://github.com/wp-stream/roadmap/blob/master/roadmap.md
 [3]:	https://github.com/wp-stream/roadmap/issues/new
 [4]:	https://github.com/wp-stream/roadmap/issues
 [5]:	support@wp-stream.com
