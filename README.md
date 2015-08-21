@@ -22,7 +22,7 @@ All changes will be held for a period of 30 days with the tag "feedback-required
 
 Yes! Email [support@wp-stream.com][5].
 
-[1]:	http://wp-steam.com
+[1]:	http://wp-stream.com
 [2]:	https://github.com/wp-stream/roadmap/blob/master/roadmap.md
 [3]:	https://github.com/wp-stream/roadmap/issues/new
 [4]:	https://github.com/wp-stream/roadmap/issues
