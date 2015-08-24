@@ -16,7 +16,7 @@ Do you see something you would like to add, change, tweak, or remove? There are 
 2. Fork this repo, make some changes to the roadmap.md file, and issue a Pull Request against the master branch. In your PR, details what you are changing, and why.
 3. Browse the list of [issues and pull requests][4], and include your thoughts as comments on each of them.
 
-All changes will be held for a period of 30 days with the tag "feedback-required". Once the 30 days have expired, if there is community concensus, the changes will be made.
+All changes will be held for a period of 30 days with the tag "feedback-required", to allow everyone some time to have their say.
 
 ## Can I get some help?
 
